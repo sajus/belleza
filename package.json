@@ -1,0 +1,22 @@
+{
+  "name": "belleza",
+  "version": "0.0.0",
+  "description": "command line search engine",
+  "main": "belleza.js",
+  "scripts": {
+    "belleza": "./belleza.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sajus/belleza"
+  },
+  "keywords": [
+    "search",
+    "images"
+  ],
+  "author": "Saju",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sajus/belleza/issues"
+  }
+}
